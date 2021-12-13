@@ -1,2 +1,2 @@
-# img
+# handsome-static
 blog images
